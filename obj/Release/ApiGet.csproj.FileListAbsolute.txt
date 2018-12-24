@@ -1,0 +1,7 @@
+C:\Users\Администратор.WIN-OG6D0PIH8T7\Source\Repos\mmbot\ApiGet\bin\Release\ApiGet.exe.config
+C:\Users\Администратор.WIN-OG6D0PIH8T7\Source\Repos\mmbot\ApiGet\bin\Release\ApiGet.exe
+C:\Users\Администратор.WIN-OG6D0PIH8T7\Source\Repos\mmbot\ApiGet\bin\Release\ApiGet.pdb
+C:\Users\Администратор.WIN-OG6D0PIH8T7\Source\Repos\mmbot\ApiGet\obj\Release\ApiGet.csproj.CoreCompileInputs.cache
+C:\Users\Администратор.WIN-OG6D0PIH8T7\Source\Repos\mmbot\ApiGet\obj\Release\ApiGet.exe
+C:\Users\Администратор.WIN-OG6D0PIH8T7\Source\Repos\mmbot\ApiGet\obj\Release\ApiGet.pdb
+C:\Users\Администратор.WIN-OG6D0PIH8T7\Source\Repos\mmbot\ApiGet\obj\Release\ApiGet.csprojAssemblyReference.cache
